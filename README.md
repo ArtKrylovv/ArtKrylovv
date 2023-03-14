@@ -6,7 +6,7 @@
 
 
 #### Skills and Experince:
-* 🐍 Python, Pytest, Behave
+* 🐍 Python: Pytest, Behave, Selenium, Appium, Requests.
 * 🛢️ MySQL
 * 🖥️ HTML, CSS
 * 📱 Xcode & Android Studio
