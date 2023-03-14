@@ -6,10 +6,10 @@
 
 
 #### Skills and Experince:
-🐍 Python, Pytest, Behave
-🛢️ MySQL
-🖥️ HTML, CSS
-📱 Xcode & Android Studio
+* 🐍 Python, Pytest, Behave
+* 🛢️ MySQL
+* 🖥️ HTML, CSS
+* 📱 Xcode & Android Studio
 
 #### My Projects:
 
