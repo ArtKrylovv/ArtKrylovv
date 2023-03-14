@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Art
-#### live in California, and work as a QA Engineer. I enjoy developing testing frameworks for Web, Mobile an Backend applications. I also like writing Python code, learning new packages and best practices.
+#### I live in California, and work as a QA Engineer. I enjoy developing testing frameworks for Web, Mobile an Backend applications. I also like writing Python code, learning new packages and best practices.
 
 - 💬 Ask me about Web, Mobile, Backend testing.
 - 📫 How to reach me qakryart@gmail.com
