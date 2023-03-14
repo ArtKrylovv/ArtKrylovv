@@ -13,4 +13,4 @@
 
 #### My Projects:
 
-<img src = "https://media.giphy.com/media/Ai6cYaZ0RruKJyxYsj/giphy.gif">
+<a href="https://github.com/ArtKrylovv/dice-resume-updater"><img src = "https://media.giphy.com/media/Ai6cYaZ0RruKJyxYsj/giphy.gif">
