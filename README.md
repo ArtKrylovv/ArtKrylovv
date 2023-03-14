@@ -1,16 +1,14 @@
-### Hi there 👋, I am Art Krylov
+<h1 align="center">Hi 👋, I'm Art</h1>
+<h3 align="center">I live in California, and work as a QA Engineer. I enjoy developing testing frameworks for Web, Mobile an Backend applications. I also like writing Python code, learning new packages and best practices.</h3>
 
-I live in California, and work as a QA Engineer. I enjoy developing testing frameworks for Web, Mobile an Backend applications. I also like writing Python code, learning new packages and best practices. You can check my Linkedin profile at https://www.linkedin.com/in/artkrylov/
+- 💬 Ask me about **web, mobile, backend testing**
 
-## Skills and Experience
+- 📫 How to reach me **qakryart@gmail.com**
 
-*   🐍 Python, Pytest, Behave
-*   <i class="fas fa-database">
-*   🖥️ Web and Beackend testing
-*   📱 Mobile testing (iOS an Android)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/artkrylov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artkrylov" height="30" width="40" /></a>
+</p>
 
-- 💬 Ask me about Pytest, Behave, Selenium, Appium, Requests 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArtKrylovv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/artkrylov//)  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
